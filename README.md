@@ -16,7 +16,7 @@ A sophisticated Python-based coffee machine simulator that combines strict resou
 
 ## 📸 Interface Preview
 
-![Fancy Coffee Machine GUI](coffee machine UI.png)
+![Fancy Coffee Machine GUI](coffeemachineUI.png)
 
 ## 🛠️ Project Structure
 
